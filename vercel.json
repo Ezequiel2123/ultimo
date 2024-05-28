@@ -3,7 +3,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "../API/index.php"
+      "dest": "/API/index.php"
     }
   ]
 }
